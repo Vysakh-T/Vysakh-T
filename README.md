@@ -2,8 +2,15 @@
 #### I really love to code, design, and learn new things.
 If I were a machine, I'd run on coffee and anime(lots of it). I do graphic design, UX/UI design, and of course code. Oh, and I play music.
 
-Skills:  Python / Flutter / REACT / HTML / CSS / C++
+#### Skills and Experience:  
+- 🐍 Python 
+- 📱 Flutter 
+- ⚛️ REACT 
+- 🕸️ HTML 
+- 🎨 CSS 
+- 📟 C++
 
+#### More about me (swear I am not a narcissist):
 - 🔭 I’m currently working on Improving my coding skills. 
 - 🌱 I’m currently learning Flutter. 
 - 👯 I’m looking to collaborate on frontend projects. 
