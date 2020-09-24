@@ -17,7 +17,10 @@ If I were a machine, I'd run on coffee and anime(lots of it). I do graphic desig
 - ⚡ Fun fact: I read books and write poems. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vysakh-T)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vysakh-t-197637187/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lord__of_the__strings/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Vysakh52774169)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mefreakinc.wordpress.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='40'>](https://www.figma.com/@vysakh)    
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Vysakh-T)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/vysakh-t-197637187/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/lord__of_the__strings/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/Vysakh52774169)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://mefreakinc.wordpress.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma' height='30'>](https://www.figma.com/@vysakh)    
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vysakh-T&show_icons=true)  
 
