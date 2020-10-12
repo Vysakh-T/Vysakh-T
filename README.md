@@ -9,6 +9,8 @@ If I were a machine, I'd run on coffee and anime(lots of it). I do graphic desig
 - 🕸️ HTML 
 - 🎨 CSS 
 - 📟 C++
+- 📜 Javascript
+- 🎯 Dart
 
 #### More about me (swear I am not a narcissist):
 - 🔭 I’m currently working on Improving my coding skills. 
