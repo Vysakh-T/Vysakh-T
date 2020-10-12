@@ -24,6 +24,6 @@ If I were a machine, I'd run on coffee and anime(lots of it). I do graphic desig
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vysakh-T&show_icons=true&theme=gradient)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vysakh-T&show_icons=true&theme=synthwave)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vysakh-T&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
